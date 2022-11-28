@@ -26,4 +26,4 @@ THEN the saved events persist
 
 
 ## Given Mock-up
-![WorkDayScheduler](/course/WorkDayScheduler/images/05-third-party-apis-homework-demo.gif)
+![WorkDayScheduler](/homework/WorkDayScheduler/images/05-third-party-apis-homework-demo.gif)
